@@ -7,7 +7,7 @@
 proxy-providers:
 
   红杏:
-    url: "https://hongxingdl.love/hxyunvip?token=b60a4b1d4343c34d2a19d9211b48a05f"
+    url: ""
     type: http
     interval: 86400
     health-check:
