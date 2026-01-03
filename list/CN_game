@@ -4,7 +4,12 @@
   - DOMAIN-SUFFIX,wegame.com
   - DOMAIN-SUFFIX,tencent.com
   - DOMAIN-SUFFIX,gtimg.cn
-  
+  - DOMAIN-SUFFIX,video.qq.com
+  - DOMAIN-SUFFIX,szmg.qq.com
+  - DOMAIN-SUFFIX,tsdnos.com
+  - DOMAIN-SUFFIX,qlogo.com
+  - DOMAIN-SUFFIX,gtimg.com
+
   # 网易游戏
   - DOMAIN-SUFFIX,163.com
   - DOMAIN-SUFFIX,netease.com
