@@ -1,4 +1,4 @@
-##DDNS
+##DDNS direct
 - DOMAIN-KEYWORD,synology
 - DOMAIN-KEYWORD,quickconnect
 - DOMAIN-SUFFIX,checkip.dyndns.org
@@ -11,3 +11,10 @@
 - DOMAIN-SUFFIX,ip6.seeip.org
 - DOMAIN-SUFFIX,members.3322.org
 - DOMAIN-SUFFIX,jdxtech.com
+- DOMAIN-SUFFIX,ddns.oray.com/checkip
+- DOMAIN-SUFFIX,v4.66666.host:66/ip
+- DOMAIN-SUFFIX,myip.ipip.net
+- DOMAIN-SUFFIX,v4.666666.host:66/ip
+- DOMAIN-SUFFIX,ip.3322.net
+- DOMAIN-SUFFIX,miwifi.com
+- DOMAIN-SUFFIX,bilibili.com
